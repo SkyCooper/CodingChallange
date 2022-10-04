@@ -1,5 +1,5 @@
 #body {
-  background-color: #212529;
+  background-color: #356e9e;
 }
 
 .card:hover {
@@ -10,7 +10,7 @@
 
 h1 {
   text-shadow: 1px 1px 3px rgb(181, 175, 175);
-  color: rgb(93, 4, 4);
+  color: rgb(234, 147, 147);
 }
 
 .card {
