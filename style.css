@@ -1,5 +1,5 @@
 #body {
-  background-color: #356e9e;
+  background-color: #85c0f1;
 }
 
 .card:hover {
@@ -8,10 +8,6 @@
   transition: all ease 0.5s;
 }
 
-h1 {
-  text-shadow: 1px 1px 3px rgb(181, 175, 175);
-  color: rgb(234, 147, 147);
-}
 
 .card {
   box-shadow: 2px 2px 3px white;
