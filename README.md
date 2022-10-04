@@ -1,6 +1,6 @@
 # Project : Coding Challenges
 
-## Check The Live Website ➡️ [Live Website](https://skycooper.github.io/CodingChallange/index.html)
+## Check The Live Website ➡️ [Live Website](https://skycooper.github.io/CodingChallenges/index.html)
 
 ## Animation of the Website
 
